@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @garrettleach
-- 👀 I’m interested in C# with .NET 6+, C++, and Rust
-- 🌱 I’m currently improving my knowledge of ASP.NET Core
-- 💞️ I’m looking to collaborate on simple tools and APIs
-- 📫 I'll investigate how to set up my GitHub Pages site soon!
+- 👀 I’m interested in C# in modern .NET, C++, and Rust
